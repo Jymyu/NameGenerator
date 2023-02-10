@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NameGenerator</string>
+    <string name="male_button_label">Male</string>
+    <string name="female_button_label">Female</string>
 </resources>
