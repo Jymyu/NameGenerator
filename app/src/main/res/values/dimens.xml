@@ -4,4 +4,7 @@
     <dimen name="bottom_margin">16dp</dimen>
 
     <dimen name="baby_name_size">28sp</dimen>
+    <dimen name="dimens_8dp">8dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
 </resources>
